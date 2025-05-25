@@ -1,0 +1,110 @@
+{
+  "common": {
+    "menu": {
+      "home": "Sākums",
+      "services": "Pakalpojumi",
+      "about": "Par mums",
+      "contacts": "Kontakti",
+      "language": "Valoda"
+    },
+    "buttons": {
+      "getQuote": "Pieprasīt piedāvājumu",
+      "orderService": "Pasūtīt pakalpojumu",
+      "callBack": "Pieprasīt zvanu",
+      "calculate": "Aprēķināt izmaksas",
+      "callSpecialist": "Izsaukt speciālistu",
+      "learnMore": "Uzzināt vairāk",
+      "send": "Nosūtīt"
+    },
+    "footer": {
+      "address": "Adrese",
+      "phone": "Tālrunis",
+      "email": "E-pasts",
+      "copyright": "© 2025 Metan.lv. Visas tiesības aizsargātas.",
+      "privacyPolicy": "Privātuma politika",
+      "termsOfUse": "Lietošanas noteikumi"
+    }
+  },
+  "home": {
+    "hero": {
+      "title": "Ekoloģiska atkritumu pārstrāde nākotnes enerģijā",
+      "subtitle": "Pilns cikls no tauku savākšanas līdz biometāna ražošanai ar pašu loģistiku un digitālo kontroli"
+    },
+    "services": {
+      "title": "Mūsu pakalpojumi",
+      "fatSeparators": {
+        "title": "Profesionāla tauku uztvērēju tīrīšana un utilizācija",
+        "description": "Regulāra tauku uztvērēju apkope restorāniem, kafejnīcām un pārtikas ražošanas uzņēmumiem. Novēršam aizsērējumus, sodus un nepatīkamas smakas. Pilns utilizācijas cikls ar vides sertifikātiem."
+      },
+      "sewerCleaning": {
+        "title": "Kanalizācijas tīrīšana no taukiem ar augstu spiedienu",
+        "description": "Efektīva tauku nogulšņu likvidēšana caurulēs, izmantojot modernu augstspiediena aprīkojumu. Likvidējam jebkuras sarežģītības aizsērējumus, nebojājot komunikācijas."
+      },
+      "biomethane": {
+        "title": "Tīkla kvalitātes biometāns (bioCH₄) enerģētikai un transportam",
+        "description": "Ražojam videi draudzīgu biometānu ar CH₄ koncentrāciju 96-97,4% ievadīšanai gāzes tīklā un transportlīdzekļu uzpildei. Sertifikācija atbilstoši RED II, ISCC, GoO standartiem."
+      }
+    },
+    "advantages": {
+      "title": "Kāpēc izvēlas Metan.lv",
+      "fullCycle": {
+        "title": "Pilns pārstrādes cikls",
+        "description": "No atkritumu savākšanas līdz enerģijas un mēslojuma ražošanai — noslēgts cikls bez zudumiem."
+      },
+      "digitalPlatform": {
+        "title": "Digitālā platforma APUS",
+        "description": "GPS transporta kontrole, caurspīdīga dokumentu plūsma, CRM integrācija."
+      },
+      "certifiedTech": {
+        "title": "Sertificētas tehnoloģijas",
+        "description": "Atbilstība Eiropas RED II, ISCC standartiem un izcelsmes garantiju (GoO) sistēmai."
+      },
+      "ownLogistics": {
+        "title": "Pašu loģistika",
+        "description": "Specializēto transportlīdzekļu parks operatīvai apkalpošanai 200 km rādiusā."
+      },
+      "riskMinimization": {
+        "title": "Risku minimizācija",
+        "description": "Aprīkojuma piegādātāja atpirkšanas shēma garantē projekta stabilitāti."
+      }
+    },
+    "segments": {
+      "title": "Risinājumi jūsu biznesam",
+      "horeca": {
+        "title": "Restorāniem, kafejnīcām un viesnīcām",
+        "description": "Regulāra tauku uztvērēju apkope, ārkārtas kanalizācijas tīrīšana, pārtikas atkritumu izvešana. Sanitāro normu un vides standartu ievērošana."
+      },
+      "municipalities": {
+        "title": "Pašvaldību dienestiem un apsaimniekošanas uzņēmumiem",
+        "description": "Kompleksi risinājumi organisko atkritumu utilizācijai, pilsētas kanalizācijas apkopei un atjaunojamās enerģijas ražošanai."
+      },
+      "energy": {
+        "title": "Enerģētikas uzņēmumiem un degvielas uzpildes stacijām",
+        "description": "Stabila tīkla kvalitātes biometāna piegāde ievadīšanai cauruļvados vai transportlīdzekļu uzpildei. Izcelsmes sertifikāti ESG pārskatiem."
+      }
+    },
+    "stats": {
+      "title": "Metan.lv skaitļos",
+      "wasteProcessed": "36 500 tonnas atkritumu pārstrādājam gadā",
+      "biogasCapacity": "Līdz 2 MW biogāzes ražošanas jauda",
+      "methaneConcentration": "96-97,4% metāna koncentrācija gala produktā",
+      "fertilizer": "29 000 tonnas organiskā mēslojuma ražojam gadā",
+      "serviceRadius": "200 km apkalpošanas rādiuss ar pašu transportu"
+    },
+    "testimonials": {
+      "title": "Ko saka mūsu klienti"
+    },
+    "cta": {
+      "title": "Gatavi sākt sadarbību?",
+      "description": "Atstājiet pieteikumu, un mūsu speciālists sazināsies ar jums 30 minūšu laikā, lai konsultētu un aprēķinātu pakalpojumu izmaksas.",
+      "form": {
+        "name": "Vārds",
+        "phone": "Tālrunis",
+        "email": "E-pasts",
+        "service": "Pakalpojuma veids",
+        "comment": "Komentārs",
+        "submit": "Nosūtīt pieteikumu"
+      }
+    }
+  }
+}
