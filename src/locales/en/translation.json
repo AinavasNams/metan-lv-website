@@ -1,11 +1,15 @@
 {
   "common": {
     "menu": {
-      "home": "Главная",
-      "services": "Услуги",
-      "about": "О нас",
-      "contacts": "Контакты",
-      "language": "Language"
+      "home": "Home",
+      "services": "Services",
+      "about": "About Us",
+      "contacts": "Contacts",
+      "language": "Language",
+      "fatSeparators": "Grease Trap Cleaning",
+      "sewerCleaning": "Sewer Cleaning",
+      "biomethane": "Biomethane Production",
+      "contact": "Contact Us"
     },
     "buttons": {
       "getQuote": "Get Quote",
@@ -23,15 +27,44 @@
       "copyright": "© 2025 Metan.lv. All rights reserved.",
       "privacyPolicy": "Privacy Policy",
       "termsOfUse": "Terms of Use"
+    },
+    "pageHeaders": {
+      "conversion": "Conversion",
+      "ourServices": "Our Services"
+    },
+    "companyInfo": {
+      "name": "SIA \"Ainavas Nams\"",
+      "legalAddress": "Legal address: Bauskas iela 2, Daugavpils, LV-5417",
+      "factualAddress": "Actual address: Rūpniecības iela 2D, Bēne, Bēnes pag., Dobeles novads, LV-3711",
+      "regNumber": "Reg. No.: 40203328328",
+      "phone": "Phone: +37120044461"
     }
   },
   "home": {
     "hero": {
       "title": "Eco-friendly Waste to Energy Conversion",
-      "subtitle": "Complete cycle from fat collection to biomethane production with own logistics and digital control"
+      "subtitle": "Complete cycle from fat collection to biomethane production with own logistics and digital control",
+      "button1": "Grease Trap Cleaning",
+      "button2": "Biomethane Production"
     },
     "services": {
       "title": "Our Services",
+      "learnMore": "Learn More",
+      "service1": {
+        "title": "Grease Trap Cleaning",
+        "description": "Professional cleaning of grease traps for restaurants, cafes and food service establishments. Compliance with all environmental standards.",
+        "alt": "Grease Trap Cleaning"
+      },
+      "service2": {
+        "title": "Sewer Cleaning",
+        "description": "Effective high-pressure cleaning of sewer systems. Elimination of blockages and prevention of emergency situations.",
+        "alt": "Sewer Cleaning"
+      },
+      "service3": {
+        "title": "Biomethane Production",
+        "description": "Processing of organic waste into biomethane. Environmentally friendly fuel with a neutral carbon footprint.",
+        "alt": "Biomethane Production"
+      },
       "fatSeparators": {
         "title": "Professional Grease Trap Cleaning and Disposal",
         "description": "Regular maintenance of grease traps for restaurants, cafes and food production facilities. We prevent clogs, fines and unpleasant odors. Complete disposal cycle with environmental certificates."
@@ -45,8 +78,40 @@
         "description": "We produce environmentally friendly biomethane with 96-97.4% CH₄ concentration for injection into the gas network and vehicle refueling. Certification according to RED II, ISCC, GoO standards."
       }
     },
+    "clients": {
+      "title": "Solutions For",
+      "learnMore": "Learn More",
+      "client1": {
+        "title": "HoReCa",
+        "description": "Restaurants, cafes, hotels and food service establishments. Regular cleaning of grease traps and sewer flushing."
+      },
+      "client2": {
+        "title": "Municipalities",
+        "description": "City services and municipal enterprises. Maintenance of sewer systems and processing of organic waste."
+      },
+      "client3": {
+        "title": "Energy Companies",
+        "description": "Energy and gas suppliers. Biomethane supplies as an environmentally friendly alternative to natural gas."
+      }
+    },
+    "about": {
+      "title": "About SIA \"Ainavas Nams\"",
+      "paragraph1": "SIA \"Ainavas Nams\" is an innovative company specializing in comprehensive solutions for processing organic waste into biomethane, cleaning grease traps and flushing sewer systems.",
+      "paragraph2": "Our mission is to promote sustainable development and reduce carbon footprint through the introduction of modern waste processing technologies and renewable energy production.",
+      "button1": "About Us",
+      "button2": "Contact Us",
+      "imageAlt": "About SIA \"Ainavas Nams\""
+    },
     "advantages": {
-      "title": "Why Choose Metan.lv",
+      "title": "Why Choose Us",
+      "advantage1": {
+        "title": "Experience and Reliability",
+        "description": "5+ years of experience in waste processing and biogas production. Proven technologies and reliable partners."
+      },
+      "advantage2": {
+        "title": "Efficiency",
+        "description": "Modern equipment and optimized processes. High productivity and minimal costs."
+      },
       "fullCycle": {
         "title": "Full Processing Cycle",
         "description": "From waste collection to energy and fertilizer production - a closed cycle without losses."

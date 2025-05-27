@@ -5,7 +5,11 @@
       "services": "Pakalpojumi",
       "about": "Par mums",
       "contacts": "Kontakti",
-      "language": "Valoda"
+      "language": "Valoda",
+      "fatSeparators": "Tauku uztvērēju tīrīšana",
+      "sewerCleaning": "Kanalizācijas tīrīšana",
+      "biomethane": "Biometāna ražošana",
+      "contact": "Kontakti"
     },
     "buttons": {
       "getQuote": "Pieprasīt piedāvājumu",
@@ -23,15 +27,44 @@
       "copyright": "© 2025 Metan.lv. Visas tiesības aizsargātas.",
       "privacyPolicy": "Privātuma politika",
       "termsOfUse": "Lietošanas noteikumi"
+    },
+    "pageHeaders": {
+      "conversion": "Pārveide",
+      "ourServices": "Mūsu pakalpojumi"
+    },
+    "companyInfo": {
+      "name": "SIA \"Ainavas Nams\"",
+      "legalAddress": "Juridiskā adrese: Bauskas iela 2, Daugavpils, LV-5417",
+      "factualAddress": "Faktiskā adrese: Rūpniecības iela 2D, Bēne, Bēnes pag., Dobeles novads, LV-3711",
+      "regNumber": "Reģ. Nr.: 40203328328",
+      "phone": "Tālrunis: +37120044461"
     }
   },
   "home": {
     "hero": {
       "title": "Ekoloģiska atkritumu pārstrāde nākotnes enerģijā",
-      "subtitle": "Pilns cikls no tauku savākšanas līdz biometāna ražošanai ar pašu loģistiku un digitālo kontroli"
+      "subtitle": "Pilns cikls no tauku savākšanas līdz biometāna ražošanai ar pašu loģistiku un digitālo kontroli",
+      "button1": "Tauku uztvērēju tīrīšana",
+      "button2": "Biometāna ražošana"
     },
     "services": {
       "title": "Mūsu pakalpojumi",
+      "learnMore": "Uzzināt vairāk",
+      "service1": {
+        "title": "Tauku uztvērēju tīrīšana",
+        "description": "Profesionāla tauku uztvērēju tīrīšana restorāniem, kafejnīcām un sabiedriskās ēdināšanas uzņēmumiem. Atbilstība visiem vides standartiem.",
+        "alt": "Tauku uztvērēju tīrīšana"
+      },
+      "service2": {
+        "title": "Kanalizācijas tīrīšana",
+        "description": "Efektīva kanalizācijas sistēmu tīrīšana ar augstu spiedienu. Aizsērējumu likvidēšana un avārijas situāciju novēršana.",
+        "alt": "Kanalizācijas tīrīšana"
+      },
+      "service3": {
+        "title": "Biometāna ražošana",
+        "description": "Organisko atkritumu pārstrāde biometānā. Videi draudzīga degviela ar neitrālu oglekļa pēdu.",
+        "alt": "Biometāna ražošana"
+      },
       "fatSeparators": {
         "title": "Profesionāla tauku uztvērēju tīrīšana un utilizācija",
         "description": "Regulāra tauku uztvērēju apkope restorāniem, kafejnīcām un pārtikas ražošanas uzņēmumiem. Novēršam aizsērējumus, sodus un nepatīkamas smakas. Pilns utilizācijas cikls ar vides sertifikātiem."
@@ -45,8 +78,40 @@
         "description": "Ražojam videi draudzīgu biometānu ar CH₄ koncentrāciju 96-97,4% ievadīšanai gāzes tīklā un transportlīdzekļu uzpildei. Sertifikācija atbilstoši RED II, ISCC, GoO standartiem."
       }
     },
+    "clients": {
+      "title": "Risinājumi",
+      "learnMore": "Uzzināt vairāk",
+      "client1": {
+        "title": "HoReCa",
+        "description": "Restorāni, kafejnīcas, viesnīcas un sabiedriskās ēdināšanas uzņēmumi. Regulāra tauku uztvērēju tīrīšana un kanalizācijas skalošana."
+      },
+      "client2": {
+        "title": "Pašvaldības",
+        "description": "Pilsētas dienesti un pašvaldību uzņēmumi. Kanalizācijas sistēmu uzturēšana un organisko atkritumu pārstrāde."
+      },
+      "client3": {
+        "title": "Enerģētikas uzņēmumi",
+        "description": "Enerģijas un gāzes piegādātāji. Biometāna piegādes kā videi draudzīga alternatīva dabasgāzei."
+      }
+    },
+    "about": {
+      "title": "Par SIA \"Ainavas Nams\"",
+      "paragraph1": "SIA \"Ainavas Nams\" ir inovatīvs uzņēmums, kas specializējas visaptverošos risinājumos organisko atkritumu pārstrādei biometānā, tauku uztvērēju tīrīšanā un kanalizācijas sistēmu skalošanā.",
+      "paragraph2": "Mūsu misija ir veicināt ilgtspējīgu attīstību un samazināt oglekļa pēdu, ieviešot mūsdienīgas atkritumu pārstrādes tehnoloģijas un atjaunojamās enerģijas ražošanu.",
+      "button1": "Par mums",
+      "button2": "Sazināties",
+      "imageAlt": "Par SIA \"Ainavas Nams\""
+    },
     "advantages": {
-      "title": "Kāpēc izvēlas Metan.lv",
+      "title": "Kāpēc izvēlēties mūs",
+      "advantage1": {
+        "title": "Pieredze un uzticamība",
+        "description": "5+ gadu pieredze atkritumu pārstrādē un biogāzes ražošanā. Pārbaudītas tehnoloģijas un uzticami partneri."
+      },
+      "advantage2": {
+        "title": "Efektivitāte",
+        "description": "Moderns aprīkojums un optimizēti procesi. Augsta produktivitāte un minimālas izmaksas."
+      },
       "fullCycle": {
         "title": "Pilns pārstrādes cikls",
         "description": "No atkritumu savākšanas līdz enerģijas un mēslojuma ražošanai — noslēgts cikls bez zudumiem."
