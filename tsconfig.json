@@ -10,7 +10,6 @@
   ],
   "compilerOptions": {
     "jsx": "react-jsx",
-    "allowImportingTsExtensions": true,
     "resolveJsonModule": true,
     "esModuleInterop": true,
     "target": "ES2020",
